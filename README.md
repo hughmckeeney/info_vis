@@ -1,6 +1,7 @@
 # info_vis
 
-Contains original spotify data, a script to clean it and the cleaned spotify data.
+Contains original spotify data, a script to clean it and the cleaned spotify data. The original dataset can be found here: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv 
+with details here: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/readme.md
 
 The cleaned spotify data does not contain any duplicate song names. The song duplicates were removed, keeping the most popular entry for each song. 
 
